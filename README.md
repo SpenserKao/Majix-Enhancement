@@ -19,3 +19,5 @@ The core of enhancement is the revision of two of __Majix__’s java classes
 with two modified methods and 12 new ones. The test result suggests that
 the enhancement meets the expectation of fully converting bullets and
 numberings items into expected __XML__ elements.
+
+A tech report file named _tr-2004-152-full.pdf_ gives more explanation.
